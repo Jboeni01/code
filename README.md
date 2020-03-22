@@ -1,6 +1,8 @@
 # code
-code for master thesis\
-three different codes\
+code for master thesis  
+
+three different codes:  
+
 1 "prepare_data_CE.ipynb":
 * downloads the raw data from the consumer expenditure survey for the necessary time periods
 * generates consumption variables and captures demographic variables such as income, age etc.
@@ -18,7 +20,7 @@ three different codes\
  
 2.2 statistical analysis:
  * run random forest algorithm for different treatment and control groups
- * generate function for predicted consumption responses with the two model uplift approach and run it on the data, save as pickle\
+ * generate function for predicted consumption responses with the two model uplift approach and run it on the data, save as pickle
  * OLS regression to check accuracy of consumption responses
  * combine treat1 and treat2 groups to calculate cumulative consumption responses based on predicted consumption responses, save as csv file
  * generate function for partial dependency with two model uplift approach on numerical and categorial variables and run it on the data, save a csv files
