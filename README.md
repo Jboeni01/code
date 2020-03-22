@@ -1,7 +1,7 @@
 # code
 code for master thesis
 three different codes
-1) "prepare_data_CE.ipynb":
+1) "prepare_data_CE.ipynb":\\
 -downloads the raw data from the consumer expenditure survey for the necessary time periods
 -generates consumption variables and captures demographic variables such as income, age etc,
 -generates rebate variables
