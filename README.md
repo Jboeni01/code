@@ -1,7 +1,7 @@
 # code
 code for master thesis  
 
-three different codes:  
+three different codes (they build on each other):  
 
 1 "prepare_data_CE.ipynb":
 * downloads the raw data from the consumer expenditure survey for the necessary time periods
@@ -27,4 +27,4 @@ three different codes:
  * refine function for partial dependency for two model uplift approach such that the number of explanatory variables between treat and cont differ and run it on the data, save as csv files
 
 3 "figures_tables.ipynb"
- * generate figures and tables based on analysis section
+ * generate figures and tables based on analysis section for the thesis
